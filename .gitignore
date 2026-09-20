@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables / secrets
+.env
+.env.*
+*.env
+
+# API keys / credentials
+secrets/
+credentials/
+*.key
+*.pem
+
+# Databricks
+.databricks/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Power BI temporary/backup files
+*.pbit
+~$*.pbix
+
+# Secrets and local credentials
+activate.txt
+.env
+.env.*
+.adk/
