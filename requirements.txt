@@ -1,0 +1,6 @@
+google-adk
+google-genai
+databricks-sql-connector
+pandas
+numpy
+scikit-learn
